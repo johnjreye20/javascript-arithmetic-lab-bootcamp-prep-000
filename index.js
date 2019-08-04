@@ -1,6 +1,7 @@
+var x = a + b;
 var a = 3;
 var b = 5;
-var x = a + b;
-number++;
-add(3 + 5);
-console.log('x');
+
+function add() {
+  'a ++ b' = x;
+}
