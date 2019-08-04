@@ -1,7 +1,8 @@
-var x = a + b;
-var a = 3;
-var b = 5;
+let x = 10;
+if (true) {
+  let a = 20;
+  var b = 30;
+  console.log(x + y + z);
 
-function add() {
-  'a ++ b' = x;
-}
+
+console.log(x + z);
