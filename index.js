@@ -1,3 +1,5 @@
 var a = 2;
 var b = 2;
-a + b;
+a + b; {
+  return '4';
+}
